@@ -1,0 +1,6 @@
+# Slide images are hosted on Cloudflare R2, not committed to git
+slides/
+
+# OS
+.DS_Store
+Thumbs.db
